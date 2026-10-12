@@ -1,4 +1,5 @@
-name: Build Flutter APK
+name: 📲 Tallahassee Household Directory Builder
+
 on: [push, workflow_dispatch]
 
 jobs:
