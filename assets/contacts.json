@@ -30,6 +30,12 @@
     "address": "435 N. Macomb St, Tallahassee, FL 32301"
   },
   {
+    "name": "Talquin Electric Cooperative",
+    "category": "Utilities",
+    "phone": "(850) 627-7651",
+    "address": "1607 W Smith Ave, Quincy, FL 32351"
+  },
+  {
     "name": "City of Tallahassee Animal Control",
     "category": "Animal Control",
     "phone": "(850) 891-2958",
@@ -42,10 +48,22 @@
     "address": "3505 N Monroe St, Tallahassee, FL 32303"
   },
   {
+    "name": "Wansa's Plumbing Inc",
+    "category": "Plumber",
+    "phone": "(850) 878-5353",
+    "address": "2308 Laurel St, Tallahassee, FL 32303"
+  },
+  {
     "name": "Benson's Heating & Air Conditioning",
     "category": "HVAC Repair",
     "phone": "(850) 317-8625",
     "address": "5402 Tower Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Barineau Heating & Air Conditioning",
+    "category": "HVAC Repair",
+    "phone": "(850) 580-4041",
+    "address": "2435 Capital Circle NE, Tallahassee, FL 32308"
   },
   {
     "name": "Lawson & Lawson Electrical Services",
@@ -54,7 +72,13 @@
     "address": "5019 Metzke Ln, Tallahassee, FL 32303"
   },
   {
-    "name": "High Quality Locksmith of Tallahassee",
+    "name": "Westcom Electric Inc",
+    "category": "Electrician",
+    "phone": "(850) 576-3531",
+    "address": "4004 Coastal Hwy, Crawfordville, FL 32327"
+  },
+  {
+    "name": "High Quality Locksmith",
     "category": "Locksmith",
     "phone": "(850) 980-2708",
     "address": "Tallahassee, FL 32303"
@@ -66,7 +90,7 @@
     "address": "3507 N Monroe St, Tallahassee, FL 32303"
   },
   {
-    "name": "Jason's Appliance Repair of TLH",
+    "name": "Jason's Appliance Repair",
     "category": "Appliance Repair",
     "phone": "(850) 404-4269",
     "address": "Tallahassee, FL 32301"
@@ -75,7 +99,7 @@
     "name": "Chill Appliance Repair",
     "category": "Appliance Repair",
     "phone": "(850) 251-0542",
-    "address": "1700 N Monroe St Ste 11-116, Tallahassee, FL 32303"
+    "address": "1700 N Monroe St, Tallahassee, FL 32303"
   },
   {
     "name": "Native Pest Management",
@@ -102,10 +126,34 @@
     "address": "1214 E Pershing St, Tallahassee, FL 32301"
   },
   {
+    "name": "Pedro's Auto Repair",
+    "category": "Auto Repair",
+    "phone": "(850) 878-3066",
+    "address": "1940 Industrial Plaza, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Carswellish Auto Repair",
+    "category": "Auto Repair",
+    "phone": "(850) 574-3255",
+    "address": "2013 S Adams St, Tallahassee, FL 32301"
+  },
+  {
     "name": "Publix Super Market (Lake Ella)",
     "category": "Grocery Store",
     "phone": "(850) 222-1975",
     "address": "1700 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Publix Super Market (Ocala Corner)",
+    "category": "Grocery Store",
+    "phone": "(850) 574-1144",
+    "address": "800 Ocala Rd, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Trader Joe's",
+    "category": "Grocery Store",
+    "phone": "(850) 385-0555",
+    "address": "3425 Thomasville Rd, Tallahassee, FL 32309"
   },
   {
     "name": "Walmart Supercenter (Apalachee)",
@@ -120,6 +168,18 @@
     "address": "3221 N Monroe St, Tallahassee, FL 32303"
   },
   {
+    "name": "Target (Mahan Drive)",
+    "category": "Department Store",
+    "phone": "(850) 219-1140",
+    "address": "3700 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Target (Apalachee Parkway)",
+    "category": "Department Store",
+    "phone": "(850) 656-6515",
+    "address": "2120 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
     "name": "Walgreens Pharmacy (Magnolia)",
     "category": "Pharmacy",
     "phone": "(850) 877-3075",
@@ -132,9 +192,111 @@
     "address": "2913 Mahan Dr, Tallahassee, FL 32308"
   },
   {
+    "name": "CVS Pharmacy (North Monroe)",
+    "category": "Pharmacy",
+    "phone": "(850) 386-3112",
+    "address": "1819 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
     "name": "Northside Hardware",
     "category": "Hardware Store",
     "phone": "(850) 386-2441",
     "address": "1314 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Home Depot (Capital Circle)",
+    "category": "Hardware Store",
+    "phone": "(850) 402-0453",
+    "address": "3200 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Lowe's Home Improvement",
+    "category": "Hardware Store",
+    "phone": "(850) 656-7001",
+    "address": "3500 Apalachee Pkwy, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Tallahassee Animal Services",
+    "category": "Animal Center",
+    "phone": "(850) 891-2950",
+    "address": "1125 Easterwood Dr, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Noles Veterinary Hospital",
+    "category": "Veterinarian",
+    "phone": "(850) 878-8288",
+    "address": "1212 Capital Circle SE, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Northwood Animal Hospital",
+    "category": "Veterinarian",
+    "phone": "(850) 385-8181",
+    "address": "3200 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Capital City Towing",
+    "category": "Towing Service",
+    "phone": "(850) 575-0101",
+    "address": "2415 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Professional Towing & Recovery",
+    "category": "Towing Service",
+    "phone": "(850) 576-4665",
+    "address": "1110 Capital Circle NE, Tallahassee, FL 32301"
+  },
+  {
+    "name": "US Post Office (Centerville)",
+    "category": "Post Office",
+    "phone": "(850) 681-3038",
+    "address": "2355 Centerville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "US Post Office (Adams St)",
+    "category": "Post Office",
+    "phone": "(850) 224-1167",
+    "address": "221 Marshall St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "LeRoy Collins Leon County Library",
+    "category": "Public Library",
+    "phone": "(850) 606-2665",
+    "address": "200 W Park Ave, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Waste Pro (Leon County)",
+    "category": "Garbage & Recycling",
+    "phone": "(850) 606-1800",
+    "address": "3705 Coastal Hwy, Crawfordville, FL 32327"
+  },
+  {
+    "name": "Tallahassee Roofing Inc",
+    "category": "Roofer",
+    "phone": "(850) 877-6114",
+    "address": "2522 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Rowe Roofing",
+    "category": "Roofer",
+    "phone": "(850) 386-7633",
+    "address": "1843 Commerce Blvd, Midway, FL 32343"
+  },
+  {
+    "name": "Capital City Tree Care",
+    "category": "Tree Service",
+    "phone": "(850) 508-3091",
+    "address": "Tallahassee, FL 32312"
+  },
+  {
+    "name": "Dickson Tree Service",
+    "category": "Tree Service",
+    "phone": "(850) 574-2111",
+    "address": "Tallahassee, FL 32303"
+  },
+  {
+    "name": "First Commerce Credit Union",
+    "category": "Bank",
+    "phone": "(850) 488-0035",
+    "address": "2073 Summit Lake Dr, Tallahassee, FL 32317"
   }
 ]
