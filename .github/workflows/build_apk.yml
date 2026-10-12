@@ -10,7 +10,8 @@ jobs:
         working-directory: .
 
     steps:
-      - uses: actions/checkout@v4
+      # 🔄 Updated to clear the Node.js warning
+      - uses: actions/checkout@v4.4.0
       
       - uses: subosito/flutter-action@v2
         with:
@@ -20,11 +21,11 @@ jobs:
         run: flutter pub get
         
       - name: Build APK
-        # 🚀 We added the bypass flag right here to clear the version error
         run: flutter build apk --release --android-skip-build-dependency-validation
         
+      # 🔄 Updated to clear the Node.js warning
       - name: Upload APK Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4.6.0
         with:
           name: release-apk
           path: build/app/outputs/flutter-apk/app-release.apk
