@@ -4,14 +4,28 @@ on: [push, workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # This line tells GitHub to run all steps inside your Flutter app folder
+    defaults:
+      run:
+        working-directory: .github/workflows
+
     steps:
       - uses: actions/checkout@v4
+      
       - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-      - run: flutter pub get
-      - run: flutter build apk --release
-      - uses: actions/upload-artifact@v4
+          
+      - name: Install dependencies
+        run: flutter pub get
+        
+      - name: Build APK
+        run: flutter build apk --release
+        
+      - name: Upload APK Artifact
+        uses: actions/upload-artifact@v4
         with:
           name: release-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          # We update this path too so it looks inside your subfolder
+          path: YOUR_SUBFOLDER_NAME/build/app/outputs/flutter-apk/app-release.apk # 👈 Change this folder name too
