@@ -5,9 +5,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
+    # 🚨 FIX 1: We run commands from the absolute root directory now,
+    # because that is where your /android folder is sitting!
     defaults:
       run:
-        working-directory: ./yellow_pages/yellow_pages
+        working-directory: .
 
     steps:
       - uses: actions/checkout@v4
@@ -15,10 +17,6 @@ jobs:
       - uses: subosito/flutter-action@v2
         with:
           channel: 'stable'
-          
-      # 🗺️ THIS STEP WILL SHOW US EXACTLY WHERE YOUR FILES ARE
-      - name: Show me the files
-        run: ls -R
           
       - name: Install dependencies
         run: flutter pub get
@@ -30,4 +28,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: release-apk
-          path: yellow_pages/yellow_pages/build/app/outputs/flutter-apk/app-release.apk
+          # 🚨 FIX 2: Your APK will build at the root level build folder
+          path: build/app/outputs/flutter-apk/app-release.apk
