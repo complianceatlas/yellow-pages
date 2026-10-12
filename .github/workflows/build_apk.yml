@@ -5,10 +5,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # This line tells GitHub to run all steps inside your Flutter app folder
+    # This tells GitHub to run all terminal commands inside your yellow_pages/yellow_pages folder
     defaults:
       run:
-        working-directory: .github/workflows
+        working-directory: ./yellow_pages/yellow_pages
 
     steps:
       - uses: actions/checkout@v4
@@ -27,5 +27,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: release-apk
-          # We update this path too so it looks inside your subfolder
-          path: YOUR_SUBFOLDER_NAME/build/app/outputs/flutter-apk/app-release.apk # 👈 Change this folder name too
+          # We tell GitHub to grab the finished file from your specific folder
+          path: yellow_pages/yellow_pages/build/app/outputs/flutter-apk/app-release.apk
