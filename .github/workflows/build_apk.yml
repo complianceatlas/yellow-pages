@@ -5,7 +5,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # This tells GitHub to run all terminal commands inside your yellow_pages/yellow_pages folder
     defaults:
       run:
         working-directory: ./yellow_pages/yellow_pages
@@ -17,6 +16,10 @@ jobs:
         with:
           channel: 'stable'
           
+      # 🗺️ THIS STEP WILL SHOW US EXACTLY WHERE YOUR FILES ARE
+      - name: Show me the files
+        run: ls -R
+          
       - name: Install dependencies
         run: flutter pub get
         
@@ -27,5 +30,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: release-apk
-          # We tell GitHub to grab the finished file from your specific folder
           path: yellow_pages/yellow_pages/build/app/outputs/flutter-apk/app-release.apk
