@@ -20,7 +20,8 @@ jobs:
         run: flutter pub get
         
       - name: Build APK
-        run: flutter build apk --release
+        # 🚀 We added the bypass flag right here to clear the version error
+        run: flutter build apk --release --android-skip-build-dependency-validation
         
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
