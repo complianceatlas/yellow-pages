@@ -1,302 +1,1352 @@
 [
   {
-    "name": "Emergency Services",
-    "category": "Emergency",
-    "phone": "911",
-    "address": "Tallahassee, FL"
-  },
-  {
-    "name": "Tallahassee Memorial HealthCare",
-    "category": "Hospital",
+    "name": "Tallahassee Memorial HealthCare (TMH)",
+    "category": "Medical / Hospital",
     "phone": "(850) 431-1155",
     "address": "1300 Miccosukee Rd, Tallahassee, FL 32308"
   },
   {
     "name": "HCA Florida Capital Hospital",
-    "category": "Hospital",
+    "category": "Medical / Hospital",
     "phone": "(850) 325-5000",
     "address": "2626 Capital Medical Blvd, Tallahassee, FL 32308"
   },
   {
-    "name": "Leon County Sheriff's Office",
-    "category": "Police (Non-Emergency)",
-    "phone": "(850) 606-3300",
-    "address": "2825 Municipal Wy, Tallahassee, FL 32304"
+    "name": "Patients First Medical Center - Raymond Diehl",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 668-3380",
+    "address": "1690 Raymond Diehl Rd, Tallahassee, FL 32308"
   },
   {
-    "name": "City of Tallahassee Utilities",
-    "category": "Utilities",
-    "phone": "(850) 891-4968",
-    "address": "435 N. Macomb St, Tallahassee, FL 32301"
+    "name": "Patients First Medical Center - Appleyard",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 576-8988",
+    "address": "505 Appleyard Drive, Tallahassee, FL 32304"
   },
   {
-    "name": "Talquin Electric Cooperative",
-    "category": "Utilities",
-    "phone": "(850) 627-7651",
-    "address": "1607 W Smith Ave, Quincy, FL 32351"
+    "name": "Patients First Medical Center - Mahan",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 878-8843",
+    "address": "3258 Mahan Dr, Tallahassee, FL 32308"
   },
   {
-    "name": "City of Tallahassee Animal Control",
-    "category": "Animal Control",
-    "phone": "(850) 891-2958",
-    "address": "1125 Easterwood Dr, Tallahassee, FL 32311"
+    "name": "Patients First Medical Center - North Monroe",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 385-6167",
+    "address": "3431 N Monroe St, Tallahassee, FL 32303"
   },
   {
-    "name": "Keith McNeill Plumbing Cont Inc",
+    "name": "Patients First Medical Center - Thomasville Rd",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 893-4109",
+    "address": "2907 Thomasville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "TMH Urgent Care Center",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 431-6450",
+    "address": "1541 Medical Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "MainStreet Family Care",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 391-7110",
+    "address": "2064 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "CVS MinuteClinic - Thomasville",
+    "category": "Medical / Urgent Care",
+    "phone": "(850) 893-0459",
+    "address": "3090 Thomasville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Neighborhood Medical Center",
+    "category": "Medical / Clinic",
+    "phone": "(850) 224-2469",
+    "address": "438 W Brevard St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Bond Community Health Center",
+    "category": "Medical / Clinic",
+    "phone": "(850) 576-4073",
+    "address": "1720 S Gadsden St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "FSU University Health Services",
+    "category": "Medical / Clinic",
+    "phone": "(850) 644-6230",
+    "address": "960 Learning Way, Tallahassee, FL 32306"
+  },
+  {
+    "name": "Tallahassee Orthopedic Clinic (TOC)",
+    "category": "Medical / Specialist",
+    "phone": "(850) 877-8174",
+    "address": "3334 Capital Medical Blvd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Southeastern Urology",
+    "category": "Medical / Specialist",
+    "phone": "(850) 309-0400",
+    "address": "2000 Centre Pointe Blvd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Southern Medical Group",
+    "category": "Medical / Clinic",
+    "phone": "(850) 216-0100",
+    "address": "1300 Medical Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Tallahassee Primary Care Associates",
+    "category": "Medical / Clinic",
+    "phone": "(850) 297-0112",
+    "address": "1803 Miccosukee Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Capital City Pediatrics",
+    "category": "Medical / Specialist",
+    "phone": "(850) 431-5264",
+    "address": "2412 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "North Florida Women's Care",
+    "category": "Medical / Specialist",
+    "phone": "(850) 877-7241",
+    "address": "1401 Centerville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Apalachee Center",
+    "category": "Medical / Mental Health",
+    "phone": "(850) 523-3333",
+    "address": "2634 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Tallahassee Neurological Clinic",
+    "category": "Medical / Specialist",
+    "phone": "(850) 877-5115",
+    "address": "1401 Centerville Rd, Suite 300, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Capital Health Plan - Governor's Square",
+    "category": "Medical / Clinic",
+    "phone": "(850) 383-3333",
+    "address": "1491 Governor's Square Blvd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Capital Health Plan - Centerview",
+    "category": "Medical / Clinic",
+    "phone": "(850) 383-3500",
+    "address": "2140 Centerview Dr, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Dermatology Associates of Tallahassee",
+    "category": "Medical / Specialist",
+    "phone": "(850) 877-4134",
+    "address": "1707 Riggins Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Eye Associates of Tallahassee",
+    "category": "Medical / Specialist",
+    "phone": "(850) 878-6161",
+    "address": "2020 Fleischmann Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Tallahassee Ear, Nose & Throat",
+    "category": "Medical / Specialist",
+    "phone": "(850) 877-0101",
+    "address": "1405 Centerville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Periodontal Associates of North Florida",
+    "category": "Dentist",
+    "phone": "(850) 562-6111",
+    "address": "2255 Killearn Center Blvd, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Bastien Dental Care",
+    "category": "Dentist",
+    "phone": "(850) 562-4242",
+    "address": "1433 Maclay Commerce Dr, Tallahassee, FL 32312"
+  },
+  {
+    "name": "Coast Dental - Blairstone",
+    "category": "Dentist",
+    "phone": "(850) 309-8056",
+    "address": "2700 Blairstone Rd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Tally Dental Excellence",
+    "category": "Dentist",
+    "phone": "(850) 386-3111",
+    "address": "2910 Kerry Forest Pkwy, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Mahan Express Pharmacy",
+    "category": "Pharmacy",
+    "phone": "(850) 583-8472",
+    "address": "3114 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "CVS Pharmacy - Magnolia",
+    "category": "Pharmacy",
+    "phone": "(850) 222-0345",
+    "address": "1301 S Magnolia Dr, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Walgreens Pharmacy - Ocala",
+    "category": "Pharmacy",
+    "phone": "(850) 574-3121",
+    "address": "2009 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Publix Pharmacy - Bradfordville",
+    "category": "Pharmacy",
+    "phone": "(850) 893-1143",
+    "address": "6753 Thomasville Rd, Tallahassee, FL 32312"
+  },
+  {
+    "name": "Walmart Pharmacy - Apalachee",
+    "category": "Pharmacy",
+    "phone": "(850) 656-7400",
+    "address": "3535 Apalachee Pkwy, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Target - Central",
+    "category": "Retail / Department Store",
+    "phone": "(850) 878-1811",
+    "address": "2120 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Target - North",
+    "category": "Retail / Department Store",
+    "phone": "(850) 574-3201",
+    "address": "3700 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Walmart Supercenter - Apalachee",
+    "category": "Retail / Department Store",
+    "phone": "(850) 656-7400",
+    "address": "3535 Apalachee Pkwy, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Walmart Supercenter - North Monroe",
+    "category": "Retail / Department Store",
+    "phone": "(850) 562-2500",
+    "address": "3221 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Walmart Supercenter - Thomasville Rd",
+    "category": "Retail / Department Store",
+    "phone": "(850) 893-1002",
+    "address": "5500 Thomasville Rd, Tallahassee, FL 32312"
+  },
+  {
+    "name": "Walmart Supercenter - Lagniappe",
+    "category": "Retail / Department Store",
+    "phone": "(850) 309-1225",
+    "address": "4021 Lagniappe Way, Tallahassee, FL 32317"
+  },
+  {
+    "name": "The Home Depot - Capital Circle",
+    "category": "Retail / Home Improvement",
+    "phone": "(850) 385-1155",
+    "address": "3200 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "The Home Depot - Tower",
+    "category": "Retail / Home Improvement",
+    "phone": "(850) 574-6701",
+    "address": "2111 Tower Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Lowe's Home Improvement - Northeast",
+    "category": "Retail / Home Improvement",
+    "phone": "(850) 402-4000",
+    "address": "2121 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Lowe's Home Improvement - West",
+    "category": "Retail / Home Improvement",
+    "phone": "(850) 574-9000",
+    "address": "2300 Capital Circle SW, Tallahassee, FL 32310"
+  },
+  {
+    "name": "Best Buy",
+    "category": "Retail / Electronics",
+    "phone": "(850) 574-4521",
+    "address": "2020 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Publix Super Market - Lake Ella Plaza",
+    "category": "Retail / Grocery",
+    "phone": "(850) 222-2821",
+    "address": "1700 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Publix Super Market - Ocala Corners",
+    "category": "Retail / Grocery",
+    "phone": "(850) 574-8181",
+    "address": "800 Ocala Rd, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Publix Super Market - Killearn Shopping Center",
+    "category": "Retail / Grocery",
+    "phone": "(850) 893-1254",
+    "address": "3521 Thomasville Rd, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Publix Super Market - Southwood Village",
+    "category": "Retail / Grocery",
+    "phone": "(850) 671-2741",
+    "address": "3551 Blair Stone Rd, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Publix Super Market - Canopy Crossing",
+    "category": "Retail / Grocery",
+    "phone": "(850) 656-5544",
+    "address": "3122 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Trader Joe's",
+    "category": "Retail / Grocery",
+    "phone": "(850) 383-5680",
+    "address": "3425 Thomasville Rd, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Whole Foods Market",
+    "category": "Retail / Grocery",
+    "phone": "(850) 513-4200",
+    "address": "1817 Thomasville Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Costco Wholesale",
+    "category": "Retail / Warehouse Club",
+    "phone": "(850) 309-7751",
+    "address": "4067 Lagniappe Way, Tallahassee, FL 32317"
+  },
+  {
+    "name": "Sam's Club",
+    "category": "Retail / Warehouse Club",
+    "phone": "(850) 656-4240",
+    "address": "3125 Dick Wilson Blvd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Dillard's - Governor's Square",
+    "category": "Retail / Clothing",
+    "phone": "(850) 878-3111",
+    "address": "1500 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Macy's - Governor's Square",
+    "category": "Retail / Clothing",
+    "phone": "(850) 656-1114",
+    "address": "1500 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "JCPenney - Governor's Square",
+    "category": "Retail / Clothing",
+    "phone": "(850) 877-1100",
+    "address": "1500 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Kohl's",
+    "category": "Retail / Department Store",
+    "phone": "(850) 656-7850",
+    "address": "1735 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "category": "Retail / Sports Equipment",
+    "phone": "(850) 656-3200",
+    "address": "1500 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Academy Sports + Outdoors",
+    "category": "Retail / Sports Equipment",
+    "phone": "(850) 671-5500",
+    "address": "3202 C-1 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "TJ Maxx - Thomasville Road",
+    "category": "Retail / Department Store",
+    "phone": "(850) 385-1322",
+    "address": "2415 Thomasville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Marshalls - Apalachee Parkway",
+    "category": "Retail / Department Store",
+    "phone": "(850) 877-6288",
+    "address": "2020 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Ross Dress for Less - North Monroe",
+    "category": "Retail / Department Store",
+    "phone": "(850) 385-0551",
+    "address": "2415 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Burlington - Centre of Tallahassee",
+    "category": "Retail / Department Store",
+    "phone": "(850) 385-9856",
+    "address": "2415 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Barnes & Noble",
+    "category": "Retail / Bookstore",
+    "phone": "(850) 386-6466",
+    "address": "2415-g N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Petco - Winewood",
+    "category": "Retail / Pet Supply",
+    "phone": "(850) 877-1123",
+    "address": "1350 Market St, Tallahassee, FL 32312"
+  },
+  {
+    "name": "PetSmart - Capital Circle",
+    "category": "Retail / Pet Supply",
+    "phone": "(850) 656-1188",
+    "address": "3220 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Office Depot",
+    "category": "Retail / Office Supplies",
+    "phone": "(850) 656-1761",
+    "address": "2020 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Staples",
+    "category": "Retail / Office Supplies",
+    "phone": "(850) 385-1555",
+    "address": "2415 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Dollar Tree - Tennessee St",
+    "category": "Retail / Variety Store",
+    "phone": "(850) 222-3401",
+    "address": "1618 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Dollar General - South Monroe",
+    "category": "Retail / Variety Store",
+    "phone": "(850) 224-5544",
+    "address": "1415 S Monroe St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Five Below - Apalachee",
+    "category": "Retail / Variety Store",
+    "phone": "(850) 656-3321",
+    "address": "2020 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Big Lots",
+    "category": "Retail / Variety Store",
+    "phone": "(850) 385-1991",
+    "address": "2811 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "ALDI - West Tennessee",
+    "category": "Retail / Grocery",
+    "phone": "(855) 955-2534",
+    "address": "2827 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "The Edison Restaurant",
+    "category": "Restaurant / Fine Dining",
+    "phone": "(850) 765-9771",
+    "address": "470 Suwannee St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Harry's Seafood Bar & Grille",
+    "category": "Restaurant / Seafood",
+    "phone": "(850) 222-3976",
+    "address": "301 S Bronough St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Midtown Caboose",
+    "category": "Restaurant / Burgers",
+    "phone": "(850) 521-1933",
+    "address": "1406 N Meridian Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Backwoods Bistro",
+    "category": "Restaurant / American",
+    "phone": "(850) 765-7457",
+    "address": "401 E Tennessee St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Table 23",
+    "category": "Restaurant / Southern",
+    "phone": "(850) 329-2261",
+    "address": "1215 Thomasville Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Savannah's Country Buffet",
+    "category": "Restaurant / Southern",
+    "phone": "(850) 574-4530",
+    "address": "2920 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Kool Beanz Cafe",
+    "category": "Restaurant / Eclectic",
+    "phone": "(850) 224-2466",
+    "address": "921 Thomasville Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Canopy Road Cafe - North",
+    "category": "Restaurant / Breakfast",
+    "phone": "(850) 668-6600",
+    "address": "1913-1 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Canopy Road Cafe - Southwood",
+    "category": "Restaurant / Breakfast",
+    "phone": "(850) 727-5421",
+    "address": "3196 Merchants Row Blvd, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Momo's Pizza - Market St",
+    "category": "Restaurant / Pizza",
+    "phone": "(850) 412-0222",
+    "address": "1410 Market St, Tallahassee, FL 32312"
+  },
+  {
+    "name": "Momo's Pizza - Tennessee St",
+    "category": "Restaurant / Pizza",
+    "phone": "(850) 224-9988",
+    "address": "1440 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Gordo's Cuban Cuisine - Market St",
+    "category": "Restaurant / Cuban",
+    "phone": "(850) 727-4407",
+    "address": "1460 Market St, Tallahassee, FL 32312"
+  },
+  {
+    "name": "Gordo's Cuban Cuisine - Pensacola St",
+    "category": "Restaurant / Cuban",
+    "phone": "(850) 576-5767",
+    "address": "1907 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "El Jalisco - Magnolia",
+    "category": "Restaurant / Mexican",
+    "phone": "(850) 878-0800",
+    "address": "1313 S Magnolia Dr, Tallahassee, FL 32301"
+  },
+  {
+    "name": "El Jalisco - Kerry Forest",
+    "category": "Restaurant / Mexican",
+    "phone": "(850) 668-1002",
+    "address": "2910 Kerry Forest Pkwy, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Hopkins' Eatery - Market St",
+    "category": "Restaurant / Sandwiches",
+    "phone": "(850) 386-4258",
+    "address": "1415 Market St, Tallahassee, FL 32312"
+  },
+  {
+    "name": "Hopkins' Eatery - Capital Circle",
+    "category": "Restaurant / Sandwiches",
+    "phone": "(850) 574-4322",
+    "address": "1208 Capital Circle SE, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Bella Bella",
+    "category": "Restaurant / Italian",
+    "phone": "(850) 412-1114",
+    "address": "137 Lagniappe Way, Tallahassee, FL 32317"
+  },
+  {
+    "name": "Riccardo's Restaurant",
+    "category": "Restaurant / Italian",
+    "phone": "(850) 386-3988",
+    "address": "1950 Thomasville Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Bark",
+    "category": "Restaurant / Vegetarian",
+    "phone": "(850) 900-5936",
+    "address": "507 All Saints St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Sweet Pea Cafe",
+    "category": "Restaurant / Vegan",
+    "phone": "(850) 692-3477",
+    "address": "832 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Voodoo Dog",
+    "category": "Restaurant / Hot Dogs",
+    "phone": "(850) 224-0005",
+    "address": "805 S Macomb St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Guthrie's - Tennessee St",
+    "category": "Restaurant / Fast Food",
+    "phone": "(850) 224-2244",
+    "address": "1814 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Chick-fil-A - West Tennessee",
+    "category": "Restaurant / Fast Food",
+    "phone": "(850) 574-4500",
+    "address": "2132 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Chick-fil-A - Capital Circle",
+    "category": "Restaurant / Fast Food",
+    "phone": "(850) 309-0050",
+    "address": "3101 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Chipotle Mexican Grill - FSU",
+    "category": "Restaurant / Fast Casual",
+    "phone": "(850) 222-1130",
+    "address": "1495 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Chipotle Mexican Grill - Mahan",
+    "category": "Restaurant / Fast Casual",
+    "phone": "(850) 656-7811",
+    "address": "3122 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Panera Bread - Blairstone",
+    "category": "Restaurant / Fast Casual",
+    "phone": "(850) 671-5100",
+    "address": "3010 Blairstone Rd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Panera Bread - Thomasville Rd",
+    "category": "Restaurant / Fast Casual",
+    "phone": "(850) 385-1400",
+    "address": "3425 Thomasville Rd, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Whataburger - Thomasville Rd",
+    "category": "Restaurant / Fast Food",
+    "phone": "(850) 668-3004",
+    "address": "2505 Thomasville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Whataburger - Apalachee Pkwy",
+    "category": "Restaurant / Fast Food",
+    "phone": "(850) 877-8004",
+    "address": "1701 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Ted's Montana Grill",
+    "category": "Restaurant / American",
+    "phone": "(850) 531-8337",
+    "address": "1942 Raymond Diehl Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Texas Roadhouse",
+    "category": "Restaurant / Steakhouse",
+    "phone": "(850) 219-7423",
+    "address": "3190 Apalachee Pkwy, Tallahassee, FL 32311"
+  },
+  {
+    "name": "LongHorn Steakhouse",
+    "category": "Restaurant / Steakhouse",
+    "phone": "(850) 385-4500",
+    "address": "2400 Gambles Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Outback Steakhouse",
+    "category": "Restaurant / Steakhouse",
+    "phone": "(850) 402-0014",
+    "address": "1950 Raymond Diehl Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Olive Garden Italian Restaurant",
+    "category": "Restaurant / Italian",
+    "phone": "(850) 878-5544",
+    "address": "1103 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Red Lobster",
+    "category": "Restaurant / Seafood",
+    "phone": "(850) 877-1115",
+    "address": "1107 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Buffalo Wild Wings",
+    "category": "Restaurant / Wings",
+    "phone": "(850) 222-9464",
+    "address": "799 W Gaines St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "BJ's Restaurant & Brewhouse",
+    "category": "Restaurant / American",
+    "phone": "(850) 219-5400",
+    "address": "1735 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Miller's Ale House",
+    "category": "Restaurant / Sports Bar",
+    "phone": "(850) 222-0033",
+    "address": "723 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Cheddar's Scratch Kitchen",
+    "category": "Restaurant / American",
+    "phone": "(850) 656-7450",
+    "address": "3197 Apalachee Pkwy, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Starbucks - Magnolia",
+    "category": "Coffee Shop",
+    "phone": "(850) 877-3101",
+    "address": "1111 S Magnolia Dr, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Starbucks - Midtown",
+    "category": "Coffee Shop",
+    "phone": "(850) 224-3011",
+    "address": "1415 Thomasville Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Lucky Goat Coffee - Capital Circle",
+    "category": "Coffee Shop",
+    "phone": "(850) 422-0004",
+    "address": "1307 N Capital Circle, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Lucky Goat Coffee - Midtown",
+    "category": "Coffee Shop",
+    "phone": "(850) 727-4141",
+    "address": "1400 Market St, Tallahassee, FL 32312"
+  },
+  {
+    "name": "AutoZone Auto Parts - Mahan",
+    "category": "Auto Parts",
+    "phone": "(850) 878-0112",
+    "address": "1711 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "AutoZone Auto Parts - Monroe",
+    "category": "Auto Parts",
+    "phone": "(850) 385-0012",
+    "address": "2525 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "AutoZone Auto Parts - Pensacola",
+    "category": "Auto Parts",
+    "phone": "(850) 575-1123",
+    "address": "1910 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Advance Auto Parts - Tennessee St",
+    "category": "Auto Parts",
+    "phone": "(850) 574-1166",
+    "address": "1415 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Advance Auto Parts - Apalachee",
+    "category": "Auto Parts",
+    "phone": "(850) 878-4144",
+    "address": "2711 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Advance Auto Parts - Thomasville Rd",
+    "category": "Auto Parts",
+    "phone": "(850) 893-1121",
+    "address": "3411 Thomasville Rd, Tallahassee, FL 32309"
+  },
+  {
+    "name": "O'Reilly Auto Parts - West Tennessee",
+    "category": "Auto Parts",
+    "phone": "(850) 574-0551",
+    "address": "2121 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "O'Reilly Auto Parts - South Monroe",
+    "category": "Auto Parts",
+    "phone": "(850) 222-1144",
+    "address": "1801 S Monroe St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "O'Reilly Auto Parts - Capital Circle",
+    "category": "Auto Parts",
+    "phone": "(850) 877-5151",
+    "address": "1212 S Capital Circle, Tallahassee, FL 32301"
+  },
+  {
+    "name": "NAPA Auto Parts - Genuine Parts Co",
+    "category": "Auto Parts",
+    "phone": "(850) 576-1188",
+    "address": "1311 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "BENNETT AUTO SUPPLY",
+    "category": "Auto Parts",
+    "phone": "(850) 224-2131",
+    "address": "603 W Gaines St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Capital City Auto Mechanics",
+    "category": "Auto Repair",
+    "phone": "(850) 575-2313",
+    "address": "1208 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Jowers Auto Service",
+    "category": "Auto Repair",
+    "phone": "(850) 877-2415",
+    "address": "1414 S Adams St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Pedro's Auto Repair",
+    "category": "Auto Repair",
+    "phone": "(850) 576-9040",
+    "address": "2005 Weems Rd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Carswell Service Center",
+    "category": "Auto Repair",
+    "phone": "(850) 224-1184",
+    "address": "902 Southard St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Bob's Auto Repair",
+    "category": "Auto Repair",
+    "phone": "(850) 574-1994",
+    "address": "3370 Garber Dr, Tallahassee, FL 32303"
+  },
+  {
+    "name": "DT's Garage",
+    "category": "Auto Repair",
+    "phone": "(850) 656-8332",
+    "address": "1899 Woodlane Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Performance Automotive",
+    "category": "Auto Repair",
+    "phone": "(850) 878-0004",
+    "address": "1340 Weems Rd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Firestone Complete Auto Care - Apalachee",
+    "category": "Auto Repair",
+    "phone": "(850) 878-1181",
+    "address": "1001 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Firestone Complete Auto Care - Thomasville",
+    "category": "Auto Repair",
+    "phone": "(850) 385-0155",
+    "address": "2510 Thomasville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Tires Plus - North Monroe",
+    "category": "Auto Repair",
+    "phone": "(850) 386-2184",
+    "address": "2311 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Tires Plus - Governor's Square",
+    "category": "Auto Repair",
+    "phone": "(850) 877-2244",
+    "address": "1601 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Mavis Tires & Brakes - Mahan",
+    "category": "Auto Repair",
+    "phone": "(850) 656-1212",
+    "address": "3150 Mahan Dr, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Mavis Tires & Brakes - Capital Circle",
+    "category": "Auto Repair",
+    "phone": "(850) 877-4411",
+    "address": "1410 Capital Circle NW, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Pep Boys - Automotive Services",
+    "category": "Auto Repair",
+    "phone": "(850) 878-3151",
+    "address": "1940 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Jiffy Lube - Thomasville Rd",
+    "category": "Auto Repair",
+    "phone": "(850) 893-5823",
+    "address": "3211 Thomasville Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Take 5 Oil Change - Tennessee St",
+    "category": "Auto Repair",
+    "phone": "(850) 222-5551",
+    "address": "1505 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Take 5 Oil Change - Monroe St",
+    "category": "Auto Repair",
+    "phone": "(850) 385-4441",
+    "address": "2210 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "AAMCO Transmissions & Total Car Care",
+    "category": "Auto Repair",
+    "phone": "(850) 574-1212",
+    "address": "2015 S Monroe St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Christian Brothers Automotive",
+    "category": "Auto Repair",
+    "phone": "(850) 727-4949",
+    "address": "6241 Raymond Diehl Rd, Tallahassee, FL 32309"
+  },
+  {
+    "name": "Capital City Collision",
+    "category": "Auto Repair",
+    "phone": "(850) 575-0010",
+    "address": "2815 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Gerber Collision & Glass",
+    "category": "Auto Repair",
+    "phone": "(850) 878-6156",
+    "address": "1933 Raymond Diehl Rd, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Pro Align & Brake",
+    "category": "Auto Repair",
+    "phone": "(850) 576-1934",
+    "address": "2310 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Tallahassee Auto Electric",
+    "category": "Auto Repair",
+    "phone": "(850) 575-8121",
+    "address": "1214 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Line-X of Tallahassee",
+    "category": "Auto Repair",
+    "phone": "(850) 575-4639",
+    "address": "4811 Woodlane Circle, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Precision Tune Auto Care",
+    "category": "Auto Repair",
+    "phone": "(850) 878-1991",
+    "address": "1815 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Discount Tire - West",
+    "category": "Auto Repair",
+    "phone": "(850) 574-8899",
+    "address": "2511 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Discount Tire - Northeast",
+    "category": "Auto Repair",
+    "phone": "(850) 656-1133",
+    "address": "3210 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Goodyear Auto Service",
+    "category": "Auto Repair",
+    "phone": "(850) 878-2191",
+    "address": "1511 Apalachee Pkwy, Tallahassee, FL 32301"
+  },
+  {
+    "name": "University Shell Service",
+    "category": "Auto Repair",
+    "phone": "(850) 222-4464",
+    "address": "402 W Tennessee St, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Bayhead Transmission",
+    "category": "Auto Repair",
+    "phone": "(850) 575-1156",
+    "address": "4722 Woodlane Circle, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Universal Collision Center",
+    "category": "Auto Repair",
+    "phone": "(850) 576-9999",
+    "address": "2525 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "All Pro Auto Repair",
+    "category": "Auto Repair",
+    "phone": "(850) 574-2277",
+    "address": "3410 Garber Dr, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Foreign Car Clinic",
+    "category": "Auto Repair",
+    "phone": "(850) 385-4556",
+    "address": "2201 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Automotive Specialties",
+    "category": "Auto Repair",
+    "phone": "(850) 877-1904",
+    "address": "1315 Weems Rd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Seminole Grand",
+    "category": "Apartment / Student",
+    "phone": "(850) 575-3000",
+    "address": "1505 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Standard at Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 629-4110",
+    "address": "815 W Jefferson St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "U Club On Freedom",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-8222",
+    "address": "900 Freedom Rd, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Quantum on West Call",
+    "category": "Apartment / Student",
+    "phone": "(850) 391-7393",
+    "address": "1700 W Call St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Onyx Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 329-7988",
+    "address": "444 W College Ave, Tallahassee, FL 32301"
+  },
+  {
+    "name": "The Pavilion Apartments",
+    "category": "Apartment / Student",
+    "phone": "(850) 575-2122",
+    "address": "2222 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Grand Reserve at Tallahassee",
+    "category": "Apartment / Residential",
+    "phone": "(850) 402-3000",
+    "address": "2425 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "West 10 Apartments",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-6010",
+    "address": "2614 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "The Forum at Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-3678",
+    "address": "2525 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Redpoint Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-3400",
+    "address": "2200 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "The Hub at Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-6888",
+    "address": "1303 Ocala Rd, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Campus Lodge Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 580-5634",
+    "address": "2800 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "The BLVD Students",
+    "category": "Apartment / Student",
+    "phone": "(850) 575-4000",
+    "address": "2500 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Whitehall Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 385-6444",
+    "address": "1650 N Meridian Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Reserve at Sugar Mill",
+    "category": "Apartment / Residential",
+    "phone": "(850) 877-4400",
+    "address": "1600 Mill St, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Azalea Place Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 385-5154",
+    "address": "2315 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Lakes at San Marcos",
+    "category": "Apartment / Residential",
+    "phone": "(850) 878-4114",
+    "address": "2400 Woodlane Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Capital Place at Southwood",
+    "category": "Apartment / Residential",
+    "phone": "(850) 656-7600",
+    "address": "2300 Capital Circle SE, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Evening Rose Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 309-1994",
+    "address": "4015 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Vertex Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 575-9112",
+    "address": "1699 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Enclave at Tallahassee",
+    "category": "Apartment / Residential",
+    "phone": "(850) 385-8121",
+    "address": "2600 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Franklin Pointe Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 877-3141",
+    "address": "1399 Franklin Blvd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Arbor Station Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 385-8884",
+    "address": "2701 N Monroe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Ridge at Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 391-7299",
+    "address": "2121 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Villa D'Alessandro",
+    "category": "Apartment / Residential",
+    "phone": "(850) 893-1990",
+    "address": "2801 Chaires Cross Rd, Tallahassee, FL 32317"
+  },
+  {
+    "name": "Londontown Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 385-2124",
+    "address": "2039 N Meridian Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Savannahs Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 575-8111",
+    "address": "1600 Pullen Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Polo Club Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 575-7656",
+    "address": "1000 High Rd, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Tapestry Park Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 422-3111",
+    "address": "2201 Tapestry Park Loop, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Sabal Park Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 656-6400",
+    "address": "2915 Sabal Park Dr, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Southwood Plantation Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 878-8181",
+    "address": "3100 Southwood Plantation Rd, Tallahassee, FL 32311"
+  },
+  {
+    "name": "Augusta Farms Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 574-1144",
+    "address": "4110 Augusta Farms Rd, Tallahassee, FL 32310"
+  },
+  {
+    "name": "Blairstone Landing",
+    "category": "Apartment / Residential",
+    "phone": "(850) 877-1114",
+    "address": "1414 Blairstone Rd, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Whispering Pines Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 574-6444",
+    "address": "2711 Hartsfield Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Glens at Millbrook",
+    "category": "Apartment / Residential",
+    "phone": "(850) 386-8100",
+    "address": "2300 Millbrook Dr, Tallahassee, FL 32303"
+  },
+  {
+    "name": "The Reserve at Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 402-9000",
+    "address": "2100 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "NXNW Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-2424",
+    "address": "1415 W Tharpe St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "LuxX on West Call",
+    "category": "Apartment / Student",
+    "phone": "(850) 224-5899",
+    "address": "1500 W Call St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Alight West Tennessee",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-1900",
+    "address": "1301 W Tennessee St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "The Social Row",
+    "category": "Apartment / Student",
+    "phone": "(850) 224-1400",
+    "address": "500 W Jefferson St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "State Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 900-5151",
+    "address": "1600 W Pensacola St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "The Luxe at Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 727-8151",
+    "address": "1601 W Call St, Tallahassee, FL 32304"
+  },
+  {
+    "name": "Villa San Carlos",
+    "category": "Apartment / Residential",
+    "phone": "(850) 224-4414",
+    "address": "2601 San Carlos Trl, Tallahassee, FL 32301"
+  },
+  {
+    "name": "The Woodlands of Tallahassee",
+    "category": "Apartment / Student",
+    "phone": "(850) 574-3232",
+    "address": "2911 Woodlands Ctr, Tallahassee, FL 32311"
+  },
+  {
+    "name": "The Pines Apartments",
+    "category": "Apartment / Residential",
+    "phone": "(850) 575-0101",
+    "address": "1701 Pullen Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Barineau Heating and Air Conditioning",
+    "category": "HVAC Service",
+    "phone": "(850) 580-4029",
+    "address": "2435 Capital Circle NE, Tallahassee, FL 32308"
+  },
+  {
+    "name": "Keith McNeill Plumbing",
     "category": "Plumber",
     "phone": "(850) 562-5504",
     "address": "3505 N Monroe St, Tallahassee, FL 32303"
   },
   {
-    "name": "Wansa's Plumbing Inc",
-    "category": "Plumber",
-    "phone": "(850) 878-5353",
-    "address": "2308 Laurel St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Benson's Heating & Air Conditioning",
-    "category": "HVAC Repair",
-    "phone": "(850) 317-8625",
+    "name": "Benson's Heating and Air Conditioning",
+    "category": "HVAC Service",
+    "phone": "(850) 562-4131",
     "address": "5402 Tower Rd, Tallahassee, FL 32303"
   },
   {
-    "name": "Barineau Heating & Air Conditioning",
-    "category": "HVAC Repair",
-    "phone": "(850) 580-4041",
-    "address": "2435 Capital Circle NE, Tallahassee, FL 32308"
+    "name": "Payne's Heating & Air",
+    "category": "HVAC Service",
+    "phone": "(850) 878-2124",
+    "address": "3415 Garber Dr, Tallahassee, FL 32303"
   },
   {
-    "name": "Lawson & Lawson Electrical Services",
+    "name": "Wansley Plumbing",
+    "category": "Plumber",
+    "phone": "(850) 877-3132",
+    "address": "1215 Capital Circle SE, Tallahassee, FL 32301"
+  },
+  {
+    "name": "Lance Maxwell Plumbing",
+    "category": "Plumber",
+    "phone": "(850) 562-2244",
+    "address": "2311 Woodlane Rd, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Capital Circle Electric",
     "category": "Electrician",
-    "phone": "(850) 562-4111",
-    "address": "5019 Metzke Ln, Tallahassee, FL 32303"
+    "phone": "(850) 576-2151",
+    "address": "1410 Capital Circle NW, Tallahassee, FL 32303"
   },
   {
-    "name": "Westcom Electric Inc",
+    "name": "Lawson Electric",
     "category": "Electrician",
-    "phone": "(850) 576-3531",
-    "address": "4004 Coastal Hwy, Crawfordville, FL 32327"
+    "phone": "(850) 893-1151",
+    "address": "3111 Mahan Dr, Tallahassee, FL 32308"
   },
   {
-    "name": "High Quality Locksmith",
+    "name": "Central Heating & Consultants",
+    "category": "HVAC Service",
+    "phone": "(850) 224-2665",
+    "address": "901 Southard St, Tallahassee, FL 32303"
+  },
+  {
+    "name": "Tallahassee Locksmiths",
     "category": "Locksmith",
-    "phone": "(850) 980-2708",
-    "address": "Tallahassee, FL 32303"
-  },
-  {
-    "name": "Capital City Locksmith",
-    "category": "Locksmith",
-    "phone": "(850) 894-1660",
-    "address": "3507 N Monroe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Jason's Appliance Repair",
-    "category": "Appliance Repair",
-    "phone": "(850) 404-4269",
-    "address": "Tallahassee, FL 32301"
-  },
-  {
-    "name": "Chill Appliance Repair",
-    "category": "Appliance Repair",
-    "phone": "(850) 251-0542",
-    "address": "1700 N Monroe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Native Pest Management",
-    "category": "Pest Control",
-    "phone": "(850) 637-8341",
-    "address": "2420 Lakeshore Dr, Tallahassee, FL 32312"
-  },
-  {
-    "name": "Paul's Termite & Pest Control",
-    "category": "Pest Control",
-    "phone": "(850) 222-6808",
-    "address": "1725 Mahan Dr, Tallahassee, FL 32308"
-  },
-  {
-    "name": "A2Z Auto Repair",
-    "category": "Auto Repair",
-    "phone": "(850) 765-7997",
-    "address": "1010 W Tharpe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Jowers Auto Service",
-    "category": "Auto Repair",
-    "phone": "(850) 224-3015",
-    "address": "1214 E Pershing St, Tallahassee, FL 32301"
-  },
-  {
-    "name": "Pedro's Auto Repair",
-    "category": "Auto Repair",
-    "phone": "(850) 878-3066",
-    "address": "1940 Industrial Plaza, Tallahassee, FL 32301"
-  },
-  {
-    "name": "Carswellish Auto Repair",
-    "category": "Auto Repair",
-    "phone": "(850) 574-3255",
-    "address": "2013 S Adams St, Tallahassee, FL 32301"
-  },
-  {
-    "name": "Publix Super Market (Lake Ella)",
-    "category": "Grocery Store",
-    "phone": "(850) 222-1975",
-    "address": "1700 N Monroe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Publix Super Market (Ocala Corner)",
-    "category": "Grocery Store",
-    "phone": "(850) 574-1144",
-    "address": "800 Ocala Rd, Tallahassee, FL 32304"
-  },
-  {
-    "name": "Trader Joe's",
-    "category": "Grocery Store",
-    "phone": "(850) 385-0555",
-    "address": "3425 Thomasville Rd, Tallahassee, FL 32309"
-  },
-  {
-    "name": "Walmart Supercenter (Apalachee)",
-    "category": "Department Store",
-    "phone": "(850) 656-2732",
-    "address": "3535 Apalachee Pkwy, Tallahassee, FL 32311"
-  },
-  {
-    "name": "Walmart Supercenter (North Monroe)",
-    "category": "Department Store",
-    "phone": "(850) 562-8383",
-    "address": "3221 N Monroe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Target (Mahan Drive)",
-    "category": "Department Store",
-    "phone": "(850) 219-1140",
-    "address": "3700 Mahan Dr, Tallahassee, FL 32308"
-  },
-  {
-    "name": "Target (Apalachee Parkway)",
-    "category": "Department Store",
-    "phone": "(850) 656-6515",
-    "address": "2120 Apalachee Pkwy, Tallahassee, FL 32301"
-  },
-  {
-    "name": "Walgreens Pharmacy (Magnolia)",
-    "category": "Pharmacy",
-    "phone": "(850) 877-3075",
-    "address": "1202 N Magnolia Dr, Tallahassee, FL 32308"
-  },
-  {
-    "name": "Walgreens Pharmacy (Mahan)",
-    "category": "Pharmacy",
-    "phone": "(850) 656-7484",
-    "address": "2913 Mahan Dr, Tallahassee, FL 32308"
-  },
-  {
-    "name": "CVS Pharmacy (North Monroe)",
-    "category": "Pharmacy",
-    "phone": "(850) 386-3112",
-    "address": "1819 N Monroe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Northside Hardware",
-    "category": "Hardware Store",
-    "phone": "(850) 386-2441",
+    "phone": "(850) 224-4114",
     "address": "1314 N Monroe St, Tallahassee, FL 32303"
   },
   {
-    "name": "The Home Depot (Capital Circle)",
-    "category": "Hardware Store",
-    "phone": "(850) 402-0453",
-    "address": "3200 Capital Circle NE, Tallahassee, FL 32308"
+    "name": "Mike's Locksmith",
+    "category": "Locksmith",
+    "phone": "(850) 575-5625",
+    "address": "2115 W Tennessee St, Tallahassee, FL 32304"
   },
   {
-    "name": "Lowe's Home Improvement",
-    "category": "Hardware Store",
-    "phone": "(850) 656-7001",
-    "address": "3500 Apalachee Pkwy, Tallahassee, FL 32311"
-  },
-  {
-    "name": "Tallahassee Animal Services",
-    "category": "Animal Center",
-    "phone": "(850) 891-2950",
-    "address": "1125 Easterwood Dr, Tallahassee, FL 32311"
-  },
-  {
-    "name": "Noles Veterinary Hospital",
-    "category": "Veterinarian",
-    "phone": "(850) 878-8288",
-    "address": "1212 Capital Circle SE, Tallahassee, FL 32301"
-  },
-  {
-    "name": "Northwood Animal Hospital",
-    "category": "Veterinarian",
-    "phone": "(850) 385-8181",
-    "address": "3200 N Monroe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Capital City Towing",
-    "category": "Towing Service",
-    "phone": "(850) 575-0101",
-    "address": "2415 W Tharpe St, Tallahassee, FL 32303"
-  },
-  {
-    "name": "Professional Towing & Recovery",
-    "category": "Towing Service",
-    "phone": "(850) 576-4665",
-    "address": "1110 Capital Circle NE, Tallahassee, FL 32301"
-  },
-  {
-    "name": "US Post Office (Centerville)",
-    "category": "Post Office",
-    "phone": "(850) 681-3038",
-    "address": "2355 Centerville Rd, Tallahassee, FL 32308"
-  },
-  {
-    "name": "US Post Office (Adams St)",
-    "category": "Post Office",
-    "phone": "(850) 224-1167",
-    "address": "221 Marshall St, Tallahassee, FL 32301"
-  },
-  {
-    "name": "LeRoy Collins Leon County Library",
-    "category": "Public Library",
-    "phone": "(850) 606-2665",
-    "address": "200 W Park Ave, Tallahassee, FL 32301"
-  },
-  {
-    "name": "Waste Pro (Leon County)",
-    "category": "Garbage & Recycling",
-    "phone": "(850) 606-1800",
-    "address": "3705 Coastal Hwy, Crawfordville, FL 32327"
-  },
-  {
-    "name": "Tallahassee Roofing Inc",
+    "name": "Dowdy Roofing",
     "category": "Roofer",
-    "phone": "(850) 877-6114",
-    "address": "2522 Capital Circle NE, Tallahassee, FL 32308"
+    "phone": "(850) 562-5400",
+    "address": "4530 Woodlane Circle, Tallahassee, FL 32303"
   },
   {
-    "name": "Rowe Roofing",
+    "name": "Tecta America Tallahassee",
     "category": "Roofer",
-    "phone": "(850) 386-7633",
-    "address": "1843 Commerce Blvd, Midway, FL 32343"
+    "phone": "(850) 576-5565",
+    "address": "2310 Weems Rd, Tallahassee, FL 32301"
   },
   {
-    "name": "Capital City Tree Care",
-    "category": "Tree Service",
-    "phone": "(850) 508-3091",
-    "address": "Tallahassee, FL 32312"
+    "name": "Pest Termite Control (Paul's)",
+    "category": "Pest Control",
+    "phone": "(850) 222-6808",
+    "address": "2410 Allen Rd, Tallahassee, FL 32312"
   },
   {
-    "name": "Dickson Tree Service",
-    "category": "Tree Service",
-    "phone": "(850) 574-2111",
-    "address": "Tallahassee, FL 32303"
-  },
-  {
-    "name": "First Commerce Credit Union",
-    "category": "Bank",
-    "phone": "(850) 488-0035",
-    "address": "2073 Summit Lake Dr, Tallahassee, FL 32317"
+    "name": "Capelouto Termite & Pest Control",
+    "category": "Pest Control",
+    "phone": "(850) 575-4004",
+    "address": "1320 Weems Rd, Tallahassee, FL 32301"
   }
 ]
